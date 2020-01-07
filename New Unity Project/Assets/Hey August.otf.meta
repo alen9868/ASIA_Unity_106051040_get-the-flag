@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b9eaecf70cb24f64d8a7e7d911c583a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hey August
+  fontNames:
+  - Hey August
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77b877f2e8dac3241b1ffd6e85b7dd4c, type: 3}
+  - {fileID: 12800000, guid: ba495ccaa3878cf48b21f405076d9fe2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
